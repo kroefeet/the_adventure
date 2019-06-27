@@ -1,0 +1,45 @@
+types = [
+	{
+		"name":"law journal article"
+	
+	},
+	{
+		"name":"non-law journal article"
+	},
+	{
+		"name":"book"
+	},
+	{
+		"name":"newspaper or magazine article"
+	},
+]
+
+locations = [
+	{
+		"name":"check shelf"
+	},
+		{
+		"name":"google scholar"
+	},
+	{
+		"name":"journal website"
+	},
+		{
+		"name":"author file"
+	},
+		{
+		"name":"database"
+	},
+		{
+		"name":"e-journals list"
+	},
+		{
+		"name":"microfilm"
+	},
+		{
+		"name":"ebook"
+	},
+		{
+		"name":"inter-library loan"
+	},
+]
